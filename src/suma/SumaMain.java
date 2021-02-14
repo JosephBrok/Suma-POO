@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author DellJIPL
+ * @author Jose Ignacio Perez Luis
  */
 public class SumaMain {
 

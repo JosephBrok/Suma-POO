@@ -2,7 +2,7 @@ package suma;
 
 /**
  *
- * @author DellJIPL
+ * @author Jose Ignacio Perez Luis
  */
 public class Suma {
 
